@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "617180595514",
+    "project_id": "deshbazaar-85c37",
+    "storage_bucket": "deshbazaar-85c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617180595514:android:1d53c91f1552f9034e3c03",
+        "android_client_info": {
+          "package_name": "com.deshbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617180595514-ulf88vkkquce03kpj46lu5a17dsr3t19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deshbazaar",
+            "certificate_hash": "1f991189141808a782441597bd8b70822039cd11"
+          }
+        },
+        {
+          "client_id": "617180595514-h1nbenurb41ursrgte1cj46kvkvqlmpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNwmslDzXFtVxyQOR3akhg0iWQwcYxZfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617180595514-h1nbenurb41ursrgte1cj46kvkvqlmpb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617180595514-a50pnpc1aui5f6lkgjpku2i1k3s0ingj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pulseplaydigital.deshBazaar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
